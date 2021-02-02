@@ -1,0 +1,3 @@
+So the first day I have to say was extreamly overwheleming. Espcially in terms of weeks 4-6 being so difficult and talks of possibly wanting to quit kind of freaked me out.
+    Then the installation/prep stuff was a little difficult because it felt as though nothing was working right on my end.
+    However, although it was a difficult first day in and out of school I'm still planning on giving my best all through out this course
