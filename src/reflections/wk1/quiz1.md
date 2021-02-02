@@ -9,7 +9,7 @@
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-
+mkdir is a command in your terminal that creates a new directory. 
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
@@ -21,13 +21,13 @@
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+HTML stands for Hyper Text Markup Language
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Css stands for cascading style sheet 
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
