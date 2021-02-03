@@ -9,3 +9,5 @@ Specificity is where the browser decides which CSS value are the most relevent. 
  3. What problems do you think you could run into if you over-utilized the !important feature?
 
 Well knowing that the !important is used to resolve conflict I would think if you used it too much down the line when cleaning up or updating your code you wouldn't be able to determine what's really important and what's not. So long story short it would make cleanup/debuggin more difficult. 
+
+https://github.com/KalebMcElyea/day-2-journal-.git
