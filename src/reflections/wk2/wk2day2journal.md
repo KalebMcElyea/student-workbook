@@ -16,3 +16,7 @@ Arguments are the value the function recieves.
 What are higher order functions? Can you provide an example?
 
 When a function accepts another function as a parameter or even returns as a function it's known as a high order function. One exmaple is Array.prototype.filter 
+
+
+
+https://github.com/KalebMcElyea/Js-tests-day-2
