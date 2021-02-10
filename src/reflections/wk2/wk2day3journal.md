@@ -11,3 +11,6 @@ The element tag! It's helpful in several ways!
 Outside of writing everything to the console, what is a better way to debug your code?
 
 You can use the debugger in your code to find the problem within the console log. Another is break points and break points will pause your code on that line.
+
+
+https://github.com/KalebMcElyea/rock-paper-scissors
