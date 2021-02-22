@@ -60,6 +60,6 @@ This applies the logic to the MVC.
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-The model is the storages and manages the data application. 
+The model is the storage and manages the data application. 
 ```
 
